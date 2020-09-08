@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Dixon Villan",
+    "occupation": "Webapp Developer",
+    "description": "Full Stack ReactJS",
+    "image": "dixv.jpg",
+    "bio": "My name is Dixon, I'm a Full Stack ReactJS Webapp Developer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "villandixon@yahoo.com.com",
+    "phone": "+63 949 651 0195",
+    "address": {
+      "street": "San Agustin",
+      "city": "Romblon",
+      "state": "Philippines",
+      "zip": "5501"
+    },
+    "website": "https://rtc2018.herokuapp.com",
+    "resumedownload": "https://www.facebook.com/dixon.villan",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dixon.villan",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.facebook.com/dixon.villan",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.facebook.com/dixon.villan",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/villandixon",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are the summary of my current skills;",
+    "othertechmessage": "Here are the summary of my previously used Tools and Technologies;",
+    "education": [
+      {
+        "school": "AMA Computer University",
+        "degree": "B.S. Computer Science",
+        "graduated": "May 1996",
+        "description": ""
+      },
+      {
+        "school": "Technological University of the Philippines",
+        "degree": "Computer Technology",
+        "graduated": "March 1993",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Barclays Capital, Singapore",
+        "title": "L2 Production Support",
+        "years": "June 2007 - April 2016",
+        "description": "Interact with L1 and L3 for Production issues and fixes (ServiceNow, Visual C# 2010, MSSQL, Oracle 10g, Sybase, Toad, Business Objects)."
+      },
+      {
+        "company": "Deutsche Bank, Singapore",
+        "title": "Programmer",
+        "years": "July 2005 - June 2007",
+        "description": "Program coding and maintenance of a Reporting Suite System (Visual Basic, Oracle 9i, Toad, Business Objects)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Gimp",
+        "level": "50%"
+      }
+    ],
+    "othertech": [
+      {
+        "name": "C#.Net, VB.Net, ASP.Net"
+      },
+      {
+        "name": "VB 6.0, ASP Classic"
+      },
+      {
+        "name": "MSSQL 6/7, MSSQL 2000, Oracle 8i, Sybase"
+      },
+      {
+        "name": "ServiceNow, Remedy"
+      },
+      {
+        "name": "Crystal Reports, Business Objects, Toad"
+      },
+      {
+        "name": "Clipper, Foxpro, Dbase, Foxbase, C, C++"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Affiliate Website",
+        "category": "ReactJS, Heroku",
+        "image": "amazon.jpg",
+        "url": "https://dixv-affiliate.herokuapp.com/"
+      },
+      {
+        "title": "Romblon Transport Cooperative (RTC)",
+        "category": "Python, PostgreSQL, Heroku",
+        "image": "rtc.jpg",
+        "url": "https://rtc2018.herokuapp.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
