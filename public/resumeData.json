@@ -120,16 +120,25 @@
   "portfolio": {
     "projects": [
       {
+        "title": "ToDo App",
+        "category": "CRUD, ReactJS, Firebase, Material-UI",
+        "image": "todo.jpg",
+        "url": "https://todo-6c3d7.web.app/",
+        "github":"https://github.com/villandixon/0916_ToDo_CRUD_React_Firebase.git"
+      },
+      {
         "title": "Amazon Affiliate Website",
         "category": "ReactJS, Heroku",
         "image": "amazon.jpg",
-        "url": "https://dixv-affiliate.herokuapp.com/"
+        "url": "https://dixv-affiliate.herokuapp.com/",
+        "github":""
       },
       {
         "title": "Romblon Transport Cooperative (RTC)",
         "category": "Python, PostgreSQL, Heroku",
         "image": "rtc.jpg",
-        "url": "https://rtc2018.herokuapp.com"
+        "url": "https://rtc2018.herokuapp.com",
+        "github":""
       }
     ]
   },
