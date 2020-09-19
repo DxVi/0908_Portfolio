@@ -1,5 +1,5 @@
 {
-  "name": "reactportfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,6 +29,14 @@
   },
   "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
   "main": "index.js",
-  "author": "",
-  "license": "ISC"
+  "author": "DixV",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DxVi/Portfolio_React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DxVi/Portfolio_React/issues"
+  }
 }

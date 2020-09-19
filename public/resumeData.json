@@ -120,6 +120,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "fb Messenger",
+        "category": "ReactJS, Firebase, Material-UI",
+        "image": "fbmessenger.jpg",
+        "url": "https://fb-messenger-205e9.web.app/",
+        "github":"https://github.com/DxVi/fb_Messenger_React_Firebase.git"
+      },
+      {
         "title": "ToDo App",
         "category": "CRUD, ReactJS, Firebase, Material-UI",
         "image": "todo.jpg",
