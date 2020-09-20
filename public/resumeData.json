@@ -120,7 +120,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "fb Messenger",
+        "title": "fb Messenger Clone",
         "category": "ReactJS, Firebase, Material-UI",
         "image": "fbmessenger.jpg",
         "url": "https://fb-messenger-205e9.web.app/",
@@ -134,9 +134,16 @@
         "github":"https://github.com/villandixon/0916_ToDo_CRUD_React_Firebase.git"
       },
       {
+        "title": "Amazon Clone",
+        "category": "ReactJS, Firebase, Material-UI, Stripe",
+        "image": "amazon.jpg",
+        "url": "https://challenge-980b3.web.app/",
+        "github":""
+      },
+      {
         "title": "Amazon Affiliate Website",
         "category": "ReactJS, Heroku",
-        "image": "amazon.jpg",
+        "image": "affiliate.jpg",
         "url": "https://dixv-affiliate.herokuapp.com/",
         "github":""
       },
