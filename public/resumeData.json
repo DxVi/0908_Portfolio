@@ -120,6 +120,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "YouTube Clone",
+        "category": "ReactJS, Materil-UI",
+        "image": "youtube.jpg",
+        "url": "https://clone-24ce3.web.app/",
+        "github": "https://github.com/DxVi/youtube-clone.git"
+      },
+      {
         "title": "Netflix Clone",
         "category": "ReactJS, Youtube",
         "image": "netflix.jpg",
