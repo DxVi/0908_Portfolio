@@ -120,39 +120,53 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix Clone",
+        "category": "ReactJS, Youtube",
+        "image": "netflix.jpg",
+        "url": "https://netflix-clone-4262c.web.app/",
+        "github": "https://github.com/DxVi/netflix-clone.git"
+      },
+      {
+        "title": "Instagram Clone",
+        "category": "ReactJS, Firebase, Material-UI",
+        "image": "instagram.jpg",
+        "url": "https://instagram-clone-fb953.web.app/",
+        "github": "https://github.com/DxVi/instagram-clone.git"
+      },
+      {
         "title": "fb Messenger Clone",
         "category": "ReactJS, Firebase, Material-UI",
         "image": "fbmessenger.jpg",
         "url": "https://fb-messenger-205e9.web.app/",
-        "github":"https://github.com/DxVi/fb_Messenger_React_Firebase.git"
+        "github": "https://github.com/DxVi/fb_Messenger_React_Firebase.git"
       },
       {
         "title": "ToDo App",
         "category": "CRUD, ReactJS, Firebase, Material-UI",
         "image": "todo.jpg",
         "url": "https://todo-6c3d7.web.app/",
-        "github":"https://github.com/villandixon/0916_ToDo_CRUD_React_Firebase.git"
+        "github": "https://github.com/villandixon/0916_ToDo_CRUD_React_Firebase.git"
       },
       {
         "title": "Amazon Clone",
         "category": "ReactJS, Firebase, Material-UI, Stripe",
         "image": "amazon.jpg",
         "url": "https://challenge-980b3.web.app/",
-        "github":""
+        "github": ""
       },
       {
         "title": "Amazon Affiliate Website",
         "category": "ReactJS, Heroku",
         "image": "affiliate.jpg",
         "url": "https://dixv-affiliate.herokuapp.com/",
-        "github":""
+        "github": ""
       },
       {
         "title": "Romblon Transport Cooperative (RTC)",
         "category": "Python, PostgreSQL, Heroku",
         "image": "rtc.jpg",
         "url": "https://rtc2018.herokuapp.com",
-        "github":""
+        "github": ""
       }
     ]
   },
