@@ -120,29 +120,36 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Tinder Clone",
+        "category": "ReactJS, Firebase, TinderCard, Router/Link, Material-UI icons",
+        "image": "youtube.jpg",
+        "url": "https://tinder-clone-143ca.web.app/",
+        "github": "https://github.com/DxVi/tinder-clone.git"
+      },
+      {
         "title": "YouTube Clone",
-        "category": "ReactJS, Materil-UI",
+        "category": "ReactJS, Materil-UI Icons, Flexbox, Router/Link",
         "image": "youtube.jpg",
         "url": "https://clone-24ce3.web.app/",
         "github": "https://github.com/DxVi/youtube-clone.git"
       },
       {
         "title": "Netflix Clone",
-        "category": "ReactJS, Youtube",
+        "category": "ReactJS, Access to TMDb, Flexbox/Hover/Blend effects",
         "image": "netflix.jpg",
         "url": "https://netflix-clone-4262c.web.app/",
         "github": "https://github.com/DxVi/netflix-clone.git"
       },
       {
         "title": "Instagram Clone",
-        "category": "ReactJS, Firebase, Material-UI",
+        "category": "ReactJS, Firebase, Material-UI, Upload image to firebase, Instagram Embed",
         "image": "instagram.jpg",
         "url": "https://instagram-clone-fb953.web.app/",
         "github": "https://github.com/DxVi/instagram-clone.git"
       },
       {
         "title": "fb Messenger Clone",
-        "category": "ReactJS, Firebase, Material-UI",
+        "category": "ReactJS, Firebase, Material-UI, Realtime chat update",
         "image": "fbmessenger.jpg",
         "url": "https://fb-messenger-205e9.web.app/",
         "github": "https://github.com/DxVi/fb_Messenger_React_Firebase.git"
@@ -156,7 +163,7 @@
       },
       {
         "title": "Amazon Clone",
-        "category": "ReactJS, Firebase, Material-UI, Stripe",
+        "category": "ReactJS, Shopping Basket, Firebase, Stripe",
         "image": "amazon.jpg",
         "url": "https://challenge-980b3.web.app/",
         "github": ""
