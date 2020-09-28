@@ -120,6 +120,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Covid-19 Tracker",
+        "category": "ReactJS, Firebase, React-Leaflet, Material-UI",
+        "image": "covidtracker.jpg",
+        "url": "https://covid-tracker-29b76.web.app/",
+        "github": "https://github.com/DxVi/covid-tracker.git"
+      },
+      {
         "title": "Tinder Clone",
         "category": "ReactJS, Firebase, TinderCard, Router/Link, Material-UI icons",
         "image": "tinder.jpg",
