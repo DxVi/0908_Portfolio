@@ -120,6 +120,27 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Twitter",
+        "category": "Firebase, Material-UI, CSS Variables, React-Flip-Move",
+        "image": "./dixv.jpg",
+        "url": "",
+        "github": "https://github.com/DxVi/twitter-clone.git"
+      },
+      {
+        "title": "Spotify",
+        "category": "Firebase, Material-UI, Spotify User Authentication",
+        "image": "spotify.jpg",
+        "url": "https://spotify-clone-1ffd0.web.app/",
+        "github": "https://github.com/DxVi/spotify-clone.git"
+      },
+      {
+        "title": "Tiktok",
+        "category": "Firebase, Material-UI, Tiktok",
+        "image": "tiktok.jpg",
+        "url": "https://tiktok-clone-1a685.web.app/",
+        "github": "https://github.com/DxVi/tiktok-clone.git"
+      },
+      {
         "title": "Covid-19 Tracker",
         "category": "ReactJS, Firebase, React-Leaflet, Material-UI",
         "image": "covidtracker.jpg",
