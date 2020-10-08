@@ -120,10 +120,17 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Whatsapp Clone",
+        "category": "ReactJS, Firebase, React-Context API (Redux), Material-UI, React-Router, Google Authentication",
+        "image": "whatsapp.jpg",
+        "url": "https://whatsapp-clone-43b56.web.app/",
+        "github": "https://github.com/DxVi/whatsapp-clone.git"
+      },
+      {
         "title": "Slack Clone",
         "category": "ReactJS, Firebase, Material-UI, CSS Variables, Google Sign-In, React Context API (REDUX)",
         "image": "slack.jpg",
-        "url": "https://slack-clone-693be.web.app/",
+        "url": "https://slack-clone-693be.web.app//",
         "github": "https://github.com/DxVi/slack-clone.git"
       },
       {
