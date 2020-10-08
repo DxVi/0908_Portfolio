@@ -120,6 +120,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Google Clone",
+        "category": "ReactJS, Firebase, React-Context API (Redux), Material-UI, React-Router, Custome React Hook, Google Custom Search API",
+        "image": "google.jpg",
+        "url": "https://clone-4f16f.web.app",
+        "github": "https://github.com/DxVi/google-clone.git"
+      },
+      {
         "title": "Whatsapp Clone",
         "category": "ReactJS, Firebase, React-Context API (Redux), Material-UI, React-Router, Google Authentication",
         "image": "whatsapp.jpg",
