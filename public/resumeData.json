@@ -120,6 +120,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Airbnb Clone",
+        "category": "ReactJS, Firebase, Material-UI, React-Router, React-Date Picker",
+        "image": "airbnb.jpg",
+        "url": "https://airbnb-clone-7ca5a.web.app/",
+        "github": "https://github.com/DxVi/airbnb-clone.git"
+      },
+      {
         "title": "Hulu Clone",
         "category": "ReactJS, Firebase, Material-UI, React-Flip-Move, Axios, TMDB",
         "image": "hulu.jpg",
