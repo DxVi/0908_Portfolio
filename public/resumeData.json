@@ -120,6 +120,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Facebook Clone",
+        "category": "ReactJS, Material-UI, React-Context API, Firestore, Firebase Hosting, Google Authentication",
+        "image": "facebook.jpg",
+        "url": "https://facebook-clone-824e0.web.app/",
+        "github": "https://github.com/DxVi/facebook-clone.git"
+      },
+      {
         "title": "Airbnb Clone",
         "category": "ReactJS, Firebase, Material-UI, React-Router, React-Date Picker",
         "image": "airbnb.jpg",
